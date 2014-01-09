@@ -1,0 +1,5 @@
+content   guten2                content/
+skin      guten2  classic/1.0   skin/
+locale    guten2  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://guten2/content/search.xul

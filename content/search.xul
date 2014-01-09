@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/global.css" ?>
+<!DOCTYPE overlay SYSTEM "chrome://guten2/locale/overlay.dtd">
+
+<overlay id="guten2-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<popup id="contentAreaContextMenu"> 
+		<menu id="guten2-search" label="Search (S)" accesskey="S" onpopupshowing="contextMenuShowing()">
+			<menupopup>
+				<menuitem label="Google (S)" accesskey="S" oncommand="Guten2.search('google')" />
+				<menuitem label="Wikipedia (A)" accesskey="A" oncommand="Guten2.search('wikipedia')" />
+			</menupopup>
+		</menu>
+	</popup>
+  <script type="application/x-javascript" src="chrome://guten2/content/search.js" />
+</overlay>
