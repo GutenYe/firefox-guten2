@@ -3,8 +3,8 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>guten2@gutenye.com</em:id>
     <em:name>Guten2</em:name>
-    <em:description>my addon is developped in tradiontal way</em:description>
-    <em:version>0.1</em:version>
+    <em:description>features not supported by Guten addon</em:description>
+    <em:version>0.2</em:version>
     <em:creator>GutenYe</em:creator>
     <em:homepageURL>http://GutenYe.com</em:homepageURL>
     <em:type>2</em:type>
