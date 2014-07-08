@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>guten2@gutenye.com</em:id>
-    <em:name>Guten2</em:name>
-    <em:description>features not supported by Guten addon</em:description>
+    <em:id>guten2@gutenye</em:id>
+    <em:name>Guten XUL-addon version</em:name>
+    <em:description>features not supported by sdk-addon</em:description>
     <em:version>0.2</em:version>
     <em:creator>GutenYe</em:creator>
     <em:homepageURL>http://GutenYe.com</em:homepageURL>
